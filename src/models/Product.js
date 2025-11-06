@@ -1,0 +1,25 @@
+let products = [
+    {
+        id: 1,
+        name: "Laptop",
+        price: 999.99,
+        category: "Electronics",
+        description: "High-performance laptop for programming"
+    },
+    {
+        id: 2, 
+        name: "Mouse",
+        price: 29.99,
+        category: "Electronics",
+        description: "Wireless computer mouse"
+    },
+    {
+        id: 3,
+        name: "Keyboard",
+        price: 79.99,
+        category: "Electronics", 
+        description: "Mechanical gaming keyboard"
+    }
+];
+
+module.exports = products

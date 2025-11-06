@@ -1,0 +1,18 @@
+# DONE:
+[1]: Create project folder
+[2]: Create project structure
+[3]: Init the project: `npm init`
+[4]: Install required libraries
+[5]: Handle enviroment variables
+[6]: Setup server
+[7]: Start from models
+[8]: Create routes
+[9]: Handle controllers [v1]
+[10]: Test APIs
+[11]: Improve the code by using `middlewares`
+
+-----------
+# PROGRESS:
+
+-----------
+# TODO:
